@@ -1,6 +1,10 @@
 # Mac file that stores custom attributes of its containing folder
 .DS_Store
 
+# ignore job apps
+jobs
+structural_engineering
+
 # Cover Letter stuff
 *Cover\ Letter.*
 
